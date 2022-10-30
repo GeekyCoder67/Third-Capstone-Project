@@ -1,0 +1,6 @@
+The number of users registered is:	1
+The number of tasks generated is:	2
+Now follows a statistic for each user.
+user	number of tasks 	percentage of total tasks assigned 	percentage complete 	percentage incomplete 	percentage tardy
+admin	2			100.00					100.00			0.00			0.00
+
